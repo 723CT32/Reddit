@@ -25,3 +25,4 @@ For data modeling I chose the CountVectorizer and Logistic Regression as my best
 For this to be successfully on a continual basis we would have to consistently scrape data. These features could change over the course of the NBA season.English stop words were removed but models removing player names could be interesting as well.
 
 
+# Reddit
